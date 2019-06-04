@@ -11,4 +11,3 @@ end
 Dog.new("fido")
 
 end
-end
