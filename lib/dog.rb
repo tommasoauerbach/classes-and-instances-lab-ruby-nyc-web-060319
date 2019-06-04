@@ -10,5 +10,3 @@ end
 
 
 end
-
-Dog.new(fido)
