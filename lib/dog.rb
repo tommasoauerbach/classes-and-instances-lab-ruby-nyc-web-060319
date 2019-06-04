@@ -8,4 +8,6 @@ def name=(new_name)
   @name = new_name
 end
 
+Dog.new("fido")
+
 end
