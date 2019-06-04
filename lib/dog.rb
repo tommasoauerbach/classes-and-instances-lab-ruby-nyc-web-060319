@@ -7,5 +7,3 @@ attr_reader :name
   end
 
 end
-
-Dog.new('fido')
